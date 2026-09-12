@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "SAGE-GI: Species-Aware Genomic Embeddings for Genomic Island prediction"
+message: "If you use this software, please cite the accompanying article."
+type: software
+authors:
+  - family-names: "Oman"
+    given-names: "Saimoon Al Farshi"
+    affiliation: "Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology"
+    email: "1024052020@grad.cse.buet.ac.bd"
+  - family-names: "Bayzid"
+    given-names: "Md. Shamsuzzoha"
+    affiliation: "Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology"
+repository-code: "https://github.com/saimoon-oman/SAGE-GI"
+url: "https://saimoon-oman.github.io/SAGE-GI/"
+license: MIT

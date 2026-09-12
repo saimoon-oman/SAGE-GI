@@ -1,0 +1,194 @@
+[
+  {
+    "objective": "f1",
+    "config": {
+      "c1": 0.15,
+      "c2": 0.05,
+      "filter_len": 400.0,
+      "min_len": 10000.0,
+      "refine": 1.0
+    },
+    "in_sample": {
+      "precision": 58.417,
+      "recall": 72.51,
+      "f1": 59.635,
+      "mabe": 18011.376
+    },
+    "cv_heldout": {
+      "precision": 57.686,
+      "recall": 72.139,
+      "f1": 59.104,
+      "mabe": 18332.805
+    },
+    "fold_choices": [
+      {
+        "fold": 0,
+        "c1": 0.15,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": true
+      },
+      {
+        "fold": 1,
+        "c1": 0.1,
+        "c2": 0.1,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": true
+      },
+      {
+        "fold": 2,
+        "c1": 0.15,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": false
+      },
+      {
+        "fold": 3,
+        "c1": 0.15,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": true
+      },
+      {
+        "fold": 4,
+        "c1": 0.15,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": true
+      }
+    ]
+  },
+  {
+    "objective": "precision",
+    "config": {
+      "c1": 0.1,
+      "c2": 0.05,
+      "filter_len": 400.0,
+      "min_len": 10000.0,
+      "refine": 1.0
+    },
+    "in_sample": {
+      "precision": 60.496,
+      "recall": 64.893,
+      "f1": 57.935,
+      "mabe": 17122.987
+    },
+    "cv_heldout": {
+      "precision": 59.838,
+      "recall": 64.146,
+      "f1": 57.42,
+      "mabe": 16163.112
+    },
+    "fold_choices": [
+      {
+        "fold": 0,
+        "c1": 0.1,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": false
+      },
+      {
+        "fold": 1,
+        "c1": 0.1,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": true
+      },
+      {
+        "fold": 2,
+        "c1": 0.1,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 8000,
+        "refine": false
+      },
+      {
+        "fold": 3,
+        "c1": 0.1,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": true
+      },
+      {
+        "fold": 4,
+        "c1": 0.1,
+        "c2": 0.05,
+        "filter_len": 400,
+        "min_len": 10000,
+        "refine": false
+      }
+    ]
+  },
+  {
+    "objective": "recall",
+    "config": {
+      "c1": 0.2,
+      "c2": 0.25,
+      "filter_len": 200.0,
+      "min_len": 8000.0,
+      "refine": 0.0
+    },
+    "in_sample": {
+      "precision": 37.598,
+      "recall": 92.982,
+      "f1": 48.089,
+      "mabe": 23221.792
+    },
+    "cv_heldout": {
+      "precision": 37.95,
+      "recall": 92.67,
+      "f1": 48.173,
+      "mabe": 24164.331
+    },
+    "fold_choices": [
+      {
+        "fold": 0,
+        "c1": 0.2,
+        "c2": 0.25,
+        "filter_len": 200,
+        "min_len": 8000,
+        "refine": false
+      },
+      {
+        "fold": 1,
+        "c1": 0.2,
+        "c2": 0.25,
+        "filter_len": 400,
+        "min_len": 8000,
+        "refine": false
+      },
+      {
+        "fold": 2,
+        "c1": 0.2,
+        "c2": 0.25,
+        "filter_len": 200,
+        "min_len": 8000,
+        "refine": false
+      },
+      {
+        "fold": 3,
+        "c1": 0.2,
+        "c2": 0.25,
+        "filter_len": 200,
+        "min_len": 8000,
+        "refine": false
+      },
+      {
+        "fold": 4,
+        "c1": 0.2,
+        "c2": 0.25,
+        "filter_len": 200,
+        "min_len": 8000,
+        "refine": false
+      }
+    ]
+  }
+]

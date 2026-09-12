@@ -1,0 +1,25 @@
+{
+  "SAGE-GI-P": {"w": 10000, "dw": 100, "n_components": 24, "detrend_bp": 0,
+    "contamination_model1": 0.1, "contamination_model2": 0.05,
+    "median_filter_window_len": 400, "min_island_len": 10000, "merge_gap": 5000,
+    "assign": "center", "refine": true, "fit_stride": 10,
+    "embedding": "DNABERT-S_t1000", "use_embedding": true, "use_composition": true},
+
+  "Emb-only-P": {"w": 10000, "dw": 100, "n_components": 24, "detrend_bp": 0,
+    "contamination_model1": 0.1, "contamination_model2": 0.05,
+    "median_filter_window_len": 400, "min_island_len": 10000, "merge_gap": 5000,
+    "assign": "center", "refine": true, "fit_stride": 10,
+    "embedding": "DNABERT-S_t1000", "use_embedding": true, "use_composition": false},
+
+  "SAGE-GI-R": {"w": 10000, "dw": 100, "n_components": 24, "detrend_bp": 0,
+    "contamination_model1": 0.2, "contamination_model2": 0.25,
+    "median_filter_window_len": 200, "min_island_len": 8000, "merge_gap": 5000,
+    "assign": "center", "refine": false, "fit_stride": 10,
+    "embedding": "DNABERT-S_t1000", "use_embedding": true, "use_composition": true},
+
+  "Emb-only-R": {"w": 10000, "dw": 100, "n_components": 24, "detrend_bp": 0,
+    "contamination_model1": 0.2, "contamination_model2": 0.25,
+    "median_filter_window_len": 200, "min_island_len": 8000, "merge_gap": 5000,
+    "assign": "center", "refine": false, "fit_stride": 10,
+    "embedding": "DNABERT-S_t1000", "use_embedding": true, "use_composition": false}
+}

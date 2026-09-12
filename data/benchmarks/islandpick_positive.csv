@@ -1,0 +1,772 @@
+accession,organism,region_id,start,end,length,kind
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_1,642102,650843,8742,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_2,653689,684682,30994,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_3,691563,721135,29573,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_4,722194,733069,10876,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_5,2237111,2246644,9534,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_6,2332821,2342724,9904,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_7,2354372,2368451,14080,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_8,2492828,2501913,9086,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_9,2501930,2514312,12383,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_10,2607307,2624859,17553,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_11,3031136,3039466,8331,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_12,3042153,3052500,10348,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_13,3860646,3883912,23267,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_14,3888875,3898162,9288,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_15,3973592,3996618,23027,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_16,4002703,4014772,12070,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_17,4735185,4747008,11824,island
+NC_009665.1,Shewanella baltica OS185 (5229686 bp),islandpick_1_18,5040136,5054369,14234,island
+NC_007606.1,Shigella dysenteriae Sd197 (4369232 bp),islandpick_2_1,406150,418491,12342,island
+NC_007606.1,Shigella dysenteriae Sd197 (4369232 bp),islandpick_2_2,952241,961243,9003,island
+NC_007606.1,Shigella dysenteriae Sd197 (4369232 bp),islandpick_2_3,1748015,1757342,9328,island
+NC_006350.1,Burkholderia pseudomallei K96243 chromosome 1 (4074542 bp),islandpick_3_1,149366,165398,16033,island
+NC_006350.1,Burkholderia pseudomallei K96243 chromosome 1 (4074542 bp),islandpick_3_2,885156,896561,11406,island
+NC_006350.1,Burkholderia pseudomallei K96243 chromosome 1 (4074542 bp),islandpick_3_3,1322434,1334002,11569,island
+NC_006350.1,Burkholderia pseudomallei K96243 chromosome 1 (4074542 bp),islandpick_3_4,3098599,3107131,8533,island
+NC_006350.1,Burkholderia pseudomallei K96243 chromosome 1 (4074542 bp),islandpick_3_5,3872811,3888118,15308,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_1,258073,270993,12921,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_2,271673,289384,17712,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_3,289557,300231,10675,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_4,327267,348601,21335,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_5,386937,401286,14350,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_6,1127538,1138421,10884,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_7,1158636,1174407,15772,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_8,1182743,1191603,8861,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_9,1211250,1221028,9779,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_10,1221378,1241062,19685,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_11,1355966,1373084,17119,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_12,2194347,2210333,15987,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_13,2342644,2363818,21175,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_14,3415400,3425881,10482,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_15,3470573,3480285,9713,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_16,3480340,3496072,15733,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_17,3498117,3510912,12796,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_18,3519797,3532820,13024,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_19,4294097,4311802,17706,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_20,4313542,4328985,15444,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_21,4329339,4343043,13705,island
+NC_004431.1,Escherichia coli CFT073 (5231428 bp),islandpick_4_22,4919335,4938192,18858,island
+NC_003485.1,Streptococcus pyogenes MGAS8232 (1895017 bp),islandpick_5_1,311382,323333,11952,island
+NC_008543.1,Burkholderia cenocepacia HI2424 chromosome 2 (2998664 bp),islandpick_6_1,110986,122080,11095,island
+NC_003997.3,Bacillus anthracis str. Ames (5227293 bp),islandpick_7_1,472370,483188,10819,island
+NC_003997.3,Bacillus anthracis str. Ames (5227293 bp),islandpick_7_2,3762449,3772343,9895,island
+NC_003997.3,Bacillus anthracis str. Ames (5227293 bp),islandpick_7_3,4841752,4858386,16635,island
+NC_010334.1,Shewanella halifaxensis HAW-EB4 (5226917 bp),islandpick_8_1,629042,637906,8865,island
+NC_010334.1,Shewanella halifaxensis HAW-EB4 (5226917 bp),islandpick_8_2,768728,784588,15861,island
+NC_010334.1,Shewanella halifaxensis HAW-EB4 (5226917 bp),islandpick_8_3,784634,808858,24225,island
+NC_004722.1,Bacillus cereus ATCC 14579 (5411809 bp),islandpick_9_1,2392474,2411647,19174,island
+NC_004722.1,Bacillus cereus ATCC 14579 (5411809 bp),islandpick_9_2,4386695,4405413,18719,island
+NC_004722.1,Bacillus cereus ATCC 14579 (5411809 bp),islandpick_9_3,5010147,5018295,8149,island
+NC_004722.1,Bacillus cereus ATCC 14579 (5411809 bp),islandpick_9_4,5018340,5029259,10920,island
+NC_004606.1,Streptococcus pyogenes SSI-1 (1894275 bp),islandpick_10_1,661145,670661,9517,island
+NC_004606.1,Streptococcus pyogenes SSI-1 (1894275 bp),islandpick_10_2,1122488,1135939,13452,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_1,589293,607080,17788,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_2,774209,784797,10589,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_3,1546621,1563682,17062,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_4,1823418,1833418,10001,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_5,1835095,1859357,24263,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_6,1959529,1981738,22210,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_7,2008675,2018070,9396,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_8,2471008,2482264,11257,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_9,3159686,3169902,10217,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_10,3324198,3333162,8965,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_11,3426231,3442844,16614,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_12,3709626,3717895,8270,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_13,3821573,3838268,16696,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_14,4631435,4660597,29163,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_15,4663989,4675420,11432,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_16,5308854,5323342,14489,island
+NC_010322.1,Pseudomonas putida GB-1 (6078430 bp),islandpick_11_17,5377891,5389588,11698,island
+NC_007384.1,Shigella sonnei Ss046 (4825265 bp),islandpick_12_1,1866301,1875760,9460,island
+NC_007384.1,Shigella sonnei Ss046 (4825265 bp),islandpick_12_2,2548468,2561327,12860,island
+NC_007384.1,Shigella sonnei Ss046 (4825265 bp),islandpick_12_3,2828296,2838104,9809,island
+NC_007384.1,Shigella sonnei Ss046 (4825265 bp),islandpick_12_4,4102876,4113137,10262,island
+NC_008819.1,Prochlorococcus marinus str. NATL1A (1864731 bp),islandpick_13_1,784075,793520,9446,island
+NC_008819.1,Prochlorococcus marinus str. NATL1A (1864731 bp),islandpick_13_2,814673,824227,9555,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_1,956416,978570,22155,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_2,1421251,1441929,20679,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_3,2745483,2754685,9203,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_4,3514530,3524608,10079,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_5,3524784,3534718,9935,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_6,4394219,4412871,18653,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_7,4420667,4444504,23838,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_8,4444521,4458443,13923,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_9,4493737,4519430,25694,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_10,4679558,4688316,8759,island
+NC_004631.1,Salmonella enterica subsp. enterica serovar Typhi Ty2 (4791961 bp),islandpick_14_11,4689234,4699499,10266,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_1,579582,596829,17248,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_2,665140,673824,8685,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_3,904611,918373,13763,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_4,1109626,1118396,8771,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_5,1261803,1273783,11981,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_6,1344387,1392488,48102,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_7,1433836,1452086,18251,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_8,1500854,1513855,13002,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_9,1652294,1662119,9826,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_10,1711726,1734699,22974,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_11,1865988,1874594,8607,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_12,1897667,1923763,26097,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_13,2131480,2139655,8176,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_14,2749782,2769747,19966,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_15,2777421,2787075,9655,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_16,2989369,2998131,8763,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_17,3002923,3014798,11876,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_18,3262946,3273780,10835,island
+NC_002655.2,Escherichia coli O157:H7 EDL933 (5528445 bp),islandpick_15_19,4654757,4675862,21106,island
+NC_009801.1,Escherichia coli E24377A (4979619 bp),islandpick_16_1,239229,250122,10894,island
+NC_009801.1,Escherichia coli E24377A (4979619 bp),islandpick_16_2,1399961,1414288,14328,island
+NC_009801.1,Escherichia coli E24377A (4979619 bp),islandpick_16_3,1437189,1448314,11126,island
+NC_009801.1,Escherichia coli E24377A (4979619 bp),islandpick_16_4,1701183,1709444,8262,island
+NC_009801.1,Escherichia coli E24377A (4979619 bp),islandpick_16_5,2172995,2221099,48105,island
+NC_009801.1,Escherichia coli E24377A (4979619 bp),islandpick_16_6,3328173,3341172,13000,island
+NC_009801.1,Escherichia coli E24377A (4979619 bp),islandpick_16_7,3372993,3397394,24402,island
+NC_002758.2,Staphylococcus aureus subsp. aureus Mu50 (2878529 bp),islandpick_17_1,436003,464311,28309,island
+NC_008258.1,Shigella flexneri 5 str. 8401 (4574284 bp),islandpick_18_1,238333,249717,11385,island
+NC_008258.1,Shigella flexneri 5 str. 8401 (4574284 bp),islandpick_18_2,324413,333839,9427,island
+NC_008258.1,Shigella flexneri 5 str. 8401 (4574284 bp),islandpick_18_3,1194518,1208294,13777,island
+NC_008258.1,Shigella flexneri 5 str. 8401 (4574284 bp),islandpick_18_4,3863845,3872029,8185,island
+NC_008258.1,Shigella flexneri 5 str. 8401 (4574284 bp),islandpick_18_5,3957478,3967089,9612,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_1,676390,685131,8742,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_2,685194,716456,31263,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_3,716705,755498,38794,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_4,905287,913298,8012,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_5,1716273,1725250,8978,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_6,2078845,2090633,11789,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_7,2420071,2430010,9940,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_8,2525545,2534713,9169,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_9,2664070,2707192,43123,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_10,2710870,2727256,16387,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_11,3439234,3448526,9293,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_12,3456691,3465750,9060,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_13,4013866,4023227,9362,island
+NC_009997.1,Shewanella baltica OS195 (5347283 bp),islandpick_19_14,5152915,5170165,17251,island
+NC_005945.1,Bacillus anthracis str. Sterne (5228663 bp),islandpick_20_1,472413,483231,10819,island
+NC_005945.1,Bacillus anthracis str. Sterne (5228663 bp),islandpick_20_2,3762949,3772843,9895,island
+NC_005945.1,Bacillus anthracis str. Sterne (5228663 bp),islandpick_20_3,4843089,4859723,16635,island
+NC_004459.2,Vibrio vulnificus CMCP6 chromosome I (3281944 bp),islandpick_21_1,68454,110789,42336,island
+NC_004459.2,Vibrio vulnificus CMCP6 chromosome I (3281944 bp),islandpick_21_2,2030645,2042747,12103,island
+NC_009074.1,Burkholderia pseudomallei 668 chromosome I (3912947 bp),islandpick_22_1,1965988,1989921,23934,island
+NC_009074.1,Burkholderia pseudomallei 668 chromosome I (3912947 bp),islandpick_22_2,2920487,2930509,10023,island
+NC_009074.1,Burkholderia pseudomallei 668 chromosome I (3912947 bp),islandpick_22_3,3174516,3186911,12396,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_1,295143,313008,17866,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_2,938876,948472,9597,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_3,1080973,1091838,10866,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_4,1261315,1280521,19207,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_5,1409798,1430399,20602,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_6,2188786,2202930,14145,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_7,2598722,2621065,22344,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_8,3293984,3306245,12262,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_9,4793419,4805424,12006,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_10,4805572,4815653,10082,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_11,4820310,4831594,11285,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_12,4866662,4880685,14024,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_13,4883773,4892341,8569,island
+NC_007946.1,Escherichia coli UTI89 (5065741 bp),islandpick_23_14,5009432,5025750,16319,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_1,16495,57265,40771,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_2,61684,80564,18881,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_3,221576,232227,10652,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_4,308878,323982,15105,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_5,1166305,1181872,15568,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_6,1188998,1215893,26896,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_7,1819649,1829941,10293,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_8,2249814,2264825,15012,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_9,2566662,2581182,14521,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_10,2642872,2654378,11507,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_11,2815102,2823742,8641,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_12,2868434,2882147,13714,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_13,2888017,2900210,12194,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_14,3183993,3193937,9945,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_15,3206994,3219689,12696,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_16,3613274,3621716,8443,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_17,4065730,4076425,10696,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_18,4516461,4529929,13469,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_19,4543988,4563568,19581,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_20,4580216,4588422,8207,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_21,4796689,4807220,10532,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_22,5278113,5304876,26764,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_23,5327344,5343197,15854,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_24,5347018,5356020,9003,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_25,5366134,5374483,8350,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_26,5383279,5392213,8935,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_27,5392260,5413468,21209,island
+NC_004578.1,Pseudomonas syringae pv. tomato str. DC3000 (6397126 bp),islandpick_24_28,6145200,6154048,8849,island
+NC_007146.2,Haemophilus influenzae 86-028NP (1914490 bp),islandpick_25_1,1408265,1456547,48283,island
+NC_007146.2,Haemophilus influenzae 86-028NP (1914490 bp),islandpick_25_2,1590347,1598466,8120,island
+NC_007146.2,Haemophilus influenzae 86-028NP (1914490 bp),islandpick_25_3,1714650,1728795,14146,island
+NC_007530.2,Bacillus anthracis str. 'Ames Ancestor' (5227419 bp),islandpick_26_1,472370,483188,10819,island
+NC_007530.2,Bacillus anthracis str. 'Ames Ancestor' (5227419 bp),islandpick_26_2,3762576,3772470,9895,island
+NC_007530.2,Bacillus anthracis str. 'Ames Ancestor' (5227419 bp),islandpick_26_3,4841878,4858512,16635,island
+NC_003909.8,Bacillus cereus ATCC 10987 (5224283 bp),islandpick_27_1,384107,434164,50058,island
+NC_003909.8,Bacillus cereus ATCC 10987 (5224283 bp),islandpick_27_2,859295,884111,24817,island
+NC_003909.8,Bacillus cereus ATCC 10987 (5224283 bp),islandpick_27_3,4256758,4285392,28635,island
+NC_008577.1,Shewanella sp. ANA-3 chromosome 1 (4972204 bp),islandpick_28_1,1471752,1483332,11581,island
+NC_008577.1,Shewanella sp. ANA-3 chromosome 1 (4972204 bp),islandpick_28_2,1486874,1503681,16808,island
+NC_008577.1,Shewanella sp. ANA-3 chromosome 1 (4972204 bp),islandpick_28_3,2420770,2435556,14787,island
+NC_008577.1,Shewanella sp. ANA-3 chromosome 1 (4972204 bp),islandpick_28_4,2512418,2527378,14961,island
+NC_008577.1,Shewanella sp. ANA-3 chromosome 1 (4972204 bp),islandpick_28_5,2614867,2634658,19792,island
+NC_008577.1,Shewanella sp. ANA-3 chromosome 1 (4972204 bp),islandpick_28_6,2814443,2837691,23249,island
+NC_007613.1,Shigella boydii Sb227 (4519823 bp),islandpick_29_1,1188250,1198102,9853,island
+NC_007613.1,Shigella boydii Sb227 (4519823 bp),islandpick_29_2,1360277,1370907,10631,island
+NC_007613.1,Shigella boydii Sb227 (4519823 bp),islandpick_29_3,4201499,4215539,14041,island
+NC_010167.1,Brucella suis ATCC 23445 chromosome II (1400844 bp),islandpick_30_1,1098471,1123199,24729,island
+NC_010167.1,Brucella suis ATCC 23445 chromosome II (1400844 bp),islandpick_30_2,1124719,1161178,36460,island
+NC_010167.1,Brucella suis ATCC 23445 chromosome II (1400844 bp),islandpick_30_3,1186315,1210728,24414,island
+NC_010167.1,Brucella suis ATCC 23445 chromosome II (1400844 bp),islandpick_30_4,1225317,1297580,72264,island
+NC_008390.1,Burkholderia cepacia AMMD chromosome 1 (3556545 bp),islandpick_31_1,2160521,2170435,9915,island
+NC_009901.1,Shewanella pealeana ATCC 700345 (5174581 bp),islandpick_32_1,1537165,1555075,17911,island
+NC_009901.1,Shewanella pealeana ATCC 700345 (5174581 bp),islandpick_32_2,1833596,1846907,13312,island
+NC_009901.1,Shewanella pealeana ATCC 700345 (5174581 bp),islandpick_32_3,2797984,2822651,24668,island
+NC_009901.1,Shewanella pealeana ATCC 700345 (5174581 bp),islandpick_32_4,5106242,5118313,12072,island
+NC_010159.1,Yersinia pestis Angola (4504254 bp),islandpick_33_1,1295405,1305522,10118,island
+NC_010159.1,Yersinia pestis Angola (4504254 bp),islandpick_33_2,1420244,1428740,8497,island
+NC_009900.1,Rickettsia massiliae MTU5 (1360898 bp),islandpick_34_1,716257,731573,15317,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_1,338051,358399,20349,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_2,454304,473320,19017,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_3,736931,749604,12674,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_4,1231170,1260648,29479,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_5,1260665,1285055,24391,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_6,1285769,1314518,28750,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_7,1321439,1334143,12705,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_8,2257042,2272262,15221,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_9,2335776,2348796,13021,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_10,3308132,3342855,34724,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_11,3350484,3366056,15573,island
+NC_008750.1,Shewanella sp. W3-18-1 (4708380 bp),islandpick_35_12,3366901,3377054,10154,island
+NC_007432.1,Streptococcus agalactiae A909 (2127839 bp),islandpick_36_1,465200,484005,18806,island
+NC_007432.1,Streptococcus agalactiae A909 (2127839 bp),islandpick_36_2,653795,673578,19784,island
+NC_007432.1,Streptococcus agalactiae A909 (2127839 bp),islandpick_36_3,693349,702328,8980,island
+NC_003923.1,Staphylococcus aureus subsp. aureus MW2 (2820462 bp),islandpick_37_1,1536219,1556315,20097,island
+NC_005071.1,Prochlorococcus marinus str. MIT 9313 (2410873 bp),islandpick_38_1,91445,111704,20260,island
+NC_005071.1,Prochlorococcus marinus str. MIT 9313 (2410873 bp),islandpick_38_2,111721,121912,10192,island
+NC_005071.1,Prochlorococcus marinus str. MIT 9313 (2410873 bp),islandpick_38_3,1053339,1062215,8877,island
+NC_005071.1,Prochlorococcus marinus str. MIT 9313 (2410873 bp),islandpick_38_4,1669420,1677644,8225,island
+NC_008600.1,Bacillus thuringiensis str. Al Hakam (5257091 bp),islandpick_39_1,2363552,2374699,11148,island
+NC_008600.1,Bacillus thuringiensis str. Al Hakam (5257091 bp),islandpick_39_2,4248144,4259160,11017,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_1,288290,297901,9612,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_2,1801156,1811032,9877,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_3,1924272,1941371,17100,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_4,2474709,2486276,11568,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_5,2847774,2861015,13242,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_6,2926971,2936879,9909,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_7,3778540,3794412,15873,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_8,4313536,4326917,13382,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_9,4860218,4872744,12527,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_10,4873469,4891796,18328,island
+NC_008463.1,Pseudomonas aeruginosa UCBPP-PA14 (6537648 bp),islandpick_40_11,5347270,5355678,8409,island
+NC_010551.1,Burkholderia ambifaria MC40-6 chromosome 1 (3443583 bp),islandpick_41_1,411634,425271,13638,island
+NC_003197.1,Salmonella typhimurium LT2 (4857432 bp),islandpick_42_1,962584,977170,14587,island
+NC_003197.1,Salmonella typhimurium LT2 (4857432 bp),islandpick_42_2,991551,1002020,10470,island
+NC_003197.1,Salmonella typhimurium LT2 (4857432 bp),islandpick_42_3,1113800,1121815,8016,island
+NC_003197.1,Salmonella typhimurium LT2 (4857432 bp),islandpick_42_4,1121832,1141787,19956,island
+NC_003197.1,Salmonella typhimurium LT2 (4857432 bp),islandpick_42_5,2732793,2749788,16996,island
+NC_003197.1,Salmonella typhimurium LT2 (4857432 bp),islandpick_42_6,4735655,4746586,10932,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_1,1999635,2045693,46059,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_2,2206971,2222121,15151,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_3,2350996,2373507,22512,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_4,2377916,2387342,9427,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_5,2465209,2474510,9302,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_6,2665661,2678193,12533,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_7,3826008,3838042,12035,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_8,3839313,3850188,10876,island
+NC_008321.1,Shewanella sp. MR-4 (4706287 bp),islandpick_43_9,4036256,4048110,11855,island
+NC_006511.1,Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150 (4585229 bp),islandpick_44_1,2703524,2714309,10786,island
+NC_008563.1,Escherichia coli APEC O1 (5082025 bp),islandpick_45_1,241955,250332,8378,island
+NC_008563.1,Escherichia coli APEC O1 (5082025 bp),islandpick_45_2,295124,313742,18619,island
+NC_008563.1,Escherichia coli APEC O1 (5082025 bp),islandpick_45_3,1195789,1215854,20066,island
+NC_008563.1,Escherichia coli APEC O1 (5082025 bp),islandpick_45_4,1346401,1362181,15781,island
+NC_008563.1,Escherichia coli APEC O1 (5082025 bp),islandpick_45_5,2740481,2750883,10403,island
+NC_008563.1,Escherichia coli APEC O1 (5082025 bp),islandpick_45_6,3315878,3325238,9361,island
+NC_008563.1,Escherichia coli APEC O1 (5082025 bp),islandpick_45_7,4743684,4754679,10996,island
+NC_008563.1,Escherichia coli APEC O1 (5082025 bp),islandpick_45_8,5022455,5038543,16089,island
+NC_008024.1,Streptococcus pyogenes MGAS10750 (1937111 bp),islandpick_46_1,1621460,1670326,48867,island
+NC_010410.1,Acinetobacter baumannii AYE (3936291 bp),islandpick_47_1,1318305,1340789,22485,island
+NC_010410.1,Acinetobacter baumannii AYE (3936291 bp),islandpick_47_2,1898726,1907642,8917,island
+NC_010410.1,Acinetobacter baumannii AYE (3936291 bp),islandpick_47_3,1913381,1923227,9847,island
+NC_010410.1,Acinetobacter baumannii AYE (3936291 bp),islandpick_47_4,3613993,3652989,38997,island
+NC_010410.1,Acinetobacter baumannii AYE (3936291 bp),islandpick_47_5,3653762,3684134,30373,island
+NC_004070.1,Streptococcus pyogenes MGAS315 (1900521 bp),islandpick_48_1,1259882,1270532,10651,island
+NC_005139.1,Vibrio vulnificus YJ016 chromosome I (3354505 bp),islandpick_49_1,143180,155865,12686,island
+NC_005139.1,Vibrio vulnificus YJ016 chromosome I (3354505 bp),islandpick_49_2,1608282,1631390,23109,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_1,1128886,1139973,11088,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_2,1472577,1481533,8957,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_3,1632747,1642058,9312,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_4,1643578,1653811,10234,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_5,1658594,1686604,28011,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_6,1746582,1758323,11742,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_7,1945714,1963089,17376,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_8,1965518,1996774,31257,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_9,2148370,2172143,23774,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_10,2185399,2193822,8424,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_11,2569947,2591636,21690,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_12,2602765,2612840,10076,island
+NC_009783.1,Vibrio harveyi ATCC BAA-1116 chromosome I (3765351 bp),islandpick_50_13,3001487,3009520,8034,island
+NC_009080.1,Burkholderia mallei NCTC 10247 chromosome I (3495687 bp),islandpick_51_1,2268022,2300118,32097,island
+NC_008022.1,Streptococcus pyogenes MGAS10270 (1928252 bp),islandpick_52_1,791058,805632,14575,island
+NC_008253.1,Escherichia coli 536 (4938920 bp),islandpick_53_1,1947503,1963489,15987,island
+NC_008253.1,Escherichia coli 536 (4938920 bp),islandpick_53_2,3129482,3140899,11418,island
+NC_008253.1,Escherichia coli 536 (4938920 bp),islandpick_53_3,3954645,3973938,19294,island
+NC_008253.1,Escherichia coli 536 (4938920 bp),islandpick_53_4,3975680,3990567,14888,island
+NC_008253.1,Escherichia coli 536 (4938920 bp),islandpick_53_5,3991068,4001865,10798,island
+NC_008253.1,Escherichia coli 536 (4938920 bp),islandpick_53_6,4007740,4015904,8165,island
+NC_008253.1,Escherichia coli 536 (4938920 bp),islandpick_53_7,4759317,4770213,10897,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_1,797912,808455,10544,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_2,1555036,1564268,9233,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_3,1717352,1764564,47213,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_4,1781046,1791894,10849,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_5,1791911,1809910,18000,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_6,1835656,1848039,12384,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_7,2353921,2375431,21511,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_8,2375477,2386562,11086,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_9,2419343,2428357,9015,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_10,2445816,2457133,11318,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_11,2478232,2486739,8508,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_12,3566114,3579705,13592,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_13,3978605,4000133,21529,island
+NC_007434.1,Burkholderia pseudomallei 1710b chromosome I (4126292 bp),islandpick_54_14,4000273,4018248,17976,island
+NC_006905.1,Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 (4755700 bp),islandpick_55_1,1102775,1118336,15562,island
+NC_006905.1,Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 (4755700 bp),islandpick_55_2,1334961,1347690,12730,island
+NC_006905.1,Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 (4755700 bp),islandpick_55_3,4361767,4372459,10693,island
+NC_010102.1,Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7 (4858887 bp),islandpick_56_1,1004641,1020617,15977,island
+NC_010102.1,Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7 (4858887 bp),islandpick_56_2,4537530,4550447,12918,island
+NC_007510.1,Burkholderia sp. 383 chromosome 1 (3694126 bp),islandpick_57_1,1901832,1910083,8252,island
+NC_007510.1,Burkholderia sp. 383 chromosome 1 (3694126 bp),islandpick_57_2,1911559,1924529,12971,island
+NC_007510.1,Burkholderia sp. 383 chromosome 1 (3694126 bp),islandpick_57_3,1935771,1961533,25763,island
+NC_007510.1,Burkholderia sp. 383 chromosome 1 (3694126 bp),islandpick_57_4,1961586,1996631,35046,island
+NC_007510.1,Burkholderia sp. 383 chromosome 1 (3694126 bp),islandpick_57_5,3345457,3364671,19215,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_1,1266334,1275177,8844,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_2,1282077,1290217,8141,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_3,1384767,1394420,9654,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_4,2183688,2194663,10976,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_5,2195121,2298627,103507,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_6,2299353,2317678,18326,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_7,2317920,2337067,19148,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_8,2337093,2352602,15510,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_9,2352623,2372056,19434,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_10,2373274,2403836,30563,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_11,2952629,2973596,20968,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_12,2974468,2982731,8264,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_13,3553658,3578111,24454,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_14,3578395,3592660,14266,island
+NC_009256.1,Burkholderia vietnamiensis G4 chromosome 1 (3652814 bp),islandpick_58_15,3599765,3616383,16619,island
+NC_008023.1,Streptococcus pyogenes MGAS2096 (1860355 bp),islandpick_59_1,1063758,1120860,57103,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_1,656347,668193,11847,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_2,1174647,1194550,19904,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_3,2084661,2122889,38229,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_4,2240189,2249745,9557,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_5,2327487,2336922,9436,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_6,2338858,2353094,14237,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_7,2494720,2509929,15210,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_8,2733623,2749042,15420,island
+NC_008322.1,Shewanella sp. MR-7 (4792610 bp),islandpick_60_9,3388775,3397371,8597,island
+NC_004337.1,Shigella flexneri 2a str. 301 (4607203 bp),islandpick_61_1,237940,252748,14809,island
+NC_004337.1,Shigella flexneri 2a str. 301 (4607203 bp),islandpick_61_2,709773,720288,10516,island
+NC_004337.1,Shigella flexneri 2a str. 301 (4607203 bp),islandpick_61_3,1176438,1187087,10650,island
+NC_009085.1,Acinetobacter baumannii ATCC 17978 (3976747 bp),islandpick_62_1,674211,779645,105435,island
+NC_009085.1,Acinetobacter baumannii ATCC 17978 (3976747 bp),islandpick_62_2,783447,797399,13953,island
+NC_009085.1,Acinetobacter baumannii ATCC 17978 (3976747 bp),islandpick_62_3,1237265,1259581,22317,island
+NC_009085.1,Acinetobacter baumannii ATCC 17978 (3976747 bp),islandpick_62_4,3393606,3404662,11057,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_1,1059946,1070762,10817,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_2,1674463,1684645,10183,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_3,1689289,1700396,11108,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_4,1721902,1751002,29101,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_5,1838596,1874376,35781,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_6,2324632,2333786,9155,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_7,2341243,2365709,24467,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_8,2568318,2593578,25261,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_9,2890760,2903574,12815,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_10,3470583,3488125,17543,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_11,3495458,3506036,10579,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_12,3521385,3530379,8995,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_13,3533133,3546898,13766,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_14,3547199,3560163,12965,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_15,3780691,3799066,18376,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_16,4673597,4685836,12240,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_17,4991621,5003291,11671,island
+NC_007778.1,Rhodopseudomonas palustris HaA2 (5331656 bp),islandpick_63_18,5003472,5016608,13137,island
+NC_009800.1,Escherichia coli HS (4643538 bp),islandpick_64_1,345430,355371,9942,island
+NC_009800.1,Escherichia coli HS (4643538 bp),islandpick_64_2,2064786,2081821,17036,island
+NC_009800.1,Escherichia coli HS (4643538 bp),islandpick_64_3,2143074,2152284,9211,island
+NC_004347.1,Shewanella oneidensis MR-1 (4969803 bp),islandpick_65_1,1513563,1536749,23187,island
+NC_004347.1,Shewanella oneidensis MR-1 (4969803 bp),islandpick_65_2,1964627,1973282,8656,island
+NC_004347.1,Shewanella oneidensis MR-1 (4969803 bp),islandpick_65_3,2428053,2437847,9795,island
+NC_004347.1,Shewanella oneidensis MR-1 (4969803 bp),islandpick_65_4,2812095,2822987,10893,island
+NC_009076.1,Burkholderia pseudomallei 1106a chromosome I (3988455 bp),islandpick_66_1,1396003,1404392,8390,island
+NC_009076.1,Burkholderia pseudomallei 1106a chromosome I (3988455 bp),islandpick_66_2,3573318,3585665,12348,island
+NC_004603.1,Vibrio parahaemolyticus RIMD 2210633 chromosome I (3288558 bp),islandpick_67_1,1127423,1144253,16831,island
+NC_004603.1,Vibrio parahaemolyticus RIMD 2210633 chromosome I (3288558 bp),islandpick_67_2,1404418,1424623,20206,island
+NC_004603.1,Vibrio parahaemolyticus RIMD 2210633 chromosome I (3288558 bp),islandpick_67_3,1469310,1491871,22562,island
+NC_004603.1,Vibrio parahaemolyticus RIMD 2210633 chromosome I (3288558 bp),islandpick_67_4,1496017,1507668,11652,island
+NC_004603.1,Vibrio parahaemolyticus RIMD 2210633 chromosome I (3288558 bp),islandpick_67_5,1508133,1522207,14075,island
+NC_004603.1,Vibrio parahaemolyticus RIMD 2210633 chromosome I (3288558 bp),islandpick_67_6,1879116,1888855,9740,island
+NC_004603.1,Vibrio parahaemolyticus RIMD 2210633 chromosome I (3288558 bp),islandpick_67_7,1889186,1901485,12300,island
+NC_004603.1,Vibrio parahaemolyticus RIMD 2210633 chromosome I (3288558 bp),islandpick_67_8,2239932,2254131,14200,island
+NC_010380.1,Streptococcus pneumoniae Hungary19A-6 (2245615 bp),islandpick_68_1,32126,58170,26045,island
+NC_010380.1,Streptococcus pneumoniae Hungary19A-6 (2245615 bp),islandpick_68_2,66495,99217,32723,island
+NC_010380.1,Streptococcus pneumoniae Hungary19A-6 (2245615 bp),islandpick_68_3,1906447,1915282,8836,island
+NC_010380.1,Streptococcus pneumoniae Hungary19A-6 (2245615 bp),islandpick_68_4,2044161,2055033,10873,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_1,748088,760209,12122,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_2,1530247,1539374,9128,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_3,1874769,1892121,17353,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_4,2201429,2213212,11784,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_5,2213551,2224017,10467,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_6,2234563,2243919,9357,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_7,2520164,2534478,14315,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_8,2534524,2552370,17847,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_9,2622904,2633833,10930,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_10,2889111,2897318,8208,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_11,3362364,3371754,9391,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_12,3435127,3446655,11529,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_13,3456983,3465349,8367,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_14,3571802,3606135,34334,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_15,3679924,3697434,17511,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_16,3698357,3710437,12081,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_17,4365618,4393995,28378,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_18,4984951,4993590,8640,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_19,4996727,5007573,10847,island
+NC_010501.1,Pseudomonas putida W619 (5774330 bp),islandpick_69_20,5745686,5753802,8117,island
+NC_008061.1,Burkholderia cenocepacia AU 1054 chromosome 2 (2788459 bp),islandpick_70_1,2144915,2158788,13874,island
+NC_002516.2,Pseudomonas aeruginosa PAO1 (6264404 bp),islandpick_71_1,2765408,2779414,14007,island
+NC_002516.2,Pseudomonas aeruginosa PAO1 (6264404 bp),islandpick_71_2,1496897,1516701,19805,island
+NC_002516.2,Pseudomonas aeruginosa PAO1 (6264404 bp),islandpick_71_3,1840403,1849943,9541,island
+NC_002516.2,Pseudomonas aeruginosa PAO1 (6264404 bp),islandpick_71_4,1850184,1866278,16095,island
+NC_002516.2,Pseudomonas aeruginosa PAO1 (6264404 bp),islandpick_71_5,1311423,1324804,13382,island
+NC_010184.1,Bacillus weihenstephanensis KBAB4 (5262775 bp),islandpick_72_1,3435860,3453734,17875,island
+NC_010184.1,Bacillus weihenstephanensis KBAB4 (5262775 bp),islandpick_72_2,3663451,3673934,10484,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_1,1763627,1772777,9151,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_2,2162619,2173664,11046,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_3,2179371,2193934,14564,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_4,2193987,2227517,33531,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_5,2586093,2622773,36681,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_6,2910053,2921967,11915,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_7,2990014,2999149,9136,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_8,3008955,3029481,20527,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_9,3161334,3178192,16859,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_10,3192695,3200993,8299,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_11,3621850,3631999,10150,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_12,4174319,4192669,18351,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_13,4192863,4201783,8921,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_14,4207859,4233555,25697,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_15,4301440,4310594,9155,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_16,4394934,4417945,23012,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_17,4484323,4493066,8744,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_18,4493111,4501310,8200,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_19,4605993,4632481,26489,island
+NC_002947.3,Pseudomonas putida KT2440 (6181863 bp),islandpick_73_20,5001721,5014127,12407,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_1,1703711,1714688,10978,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_2,1722677,1733060,10384,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_3,1736043,1757046,21004,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_4,1760788,1770102,9315,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_5,2795090,2809572,14483,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_6,3815686,3827611,11926,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_7,3827667,3843032,15366,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_8,3861716,3880469,18754,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_9,3986249,4005570,19322,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_10,4026137,4035269,9133,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_11,4187670,4211784,24115,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_12,4390209,4400274,10066,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_13,4412195,4426463,14269,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_14,4692955,4703710,10756,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_15,4708110,4720844,12735,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_16,4817155,4845662,28508,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_17,4848095,4869672,21578,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_18,5433333,5447894,14562,island
+NC_010612.1,Mycobacterium marinum M (6636827 bp),islandpick_74_19,5460061,5470767,10707,island
+NC_010582.1,Streptococcus pneumoniae CGSP14 (2209198 bp),islandpick_75_1,1205381,1213724,8344,island
+NC_010582.1,Streptococcus pneumoniae CGSP14 (2209198 bp),islandpick_75_2,1266101,1277967,11867,island
+NC_010582.1,Streptococcus pneumoniae CGSP14 (2209198 bp),islandpick_75_3,343926,354348,10423,island
+NC_000907.1,Haemophilus influenzae Rd KW20 (1830138 bp),islandpick_76_1,1102431,1111035,8605,island
+NC_010498.1,Escherichia coli SECEC SMS-3-5 (5068389 bp),islandpick_77_1,955639,970305,14667,island
+NC_010498.1,Escherichia coli SECEC SMS-3-5 (5068389 bp),islandpick_77_2,1123777,1135740,11964,island
+NC_010498.1,Escherichia coli SECEC SMS-3-5 (5068389 bp),islandpick_77_3,2283082,2291894,8813,island
+NC_010498.1,Escherichia coli SECEC SMS-3-5 (5068389 bp),islandpick_77_4,4896420,4906791,10372,island
+NC_010498.1,Escherichia coli SECEC SMS-3-5 (5068389 bp),islandpick_77_5,4910929,4941189,30261,island
+NC_007335.2,Prochlorococcus marinus str. NATL2A (1842899 bp),islandpick_78_1,1226513,1244694,18182,island
+NC_004741.1,Shigella flexneri 2a str. 2457T (4599354 bp),islandpick_79_1,241851,256077,14227,island
+NC_004741.1,Shigella flexneri 2a str. 2457T (4599354 bp),islandpick_79_2,706669,717741,11073,island
+NC_004741.1,Shigella flexneri 2a str. 2457T (4599354 bp),islandpick_79_3,725259,741603,16345,island
+NC_004741.1,Shigella flexneri 2a str. 2457T (4599354 bp),islandpick_79_4,1179331,1189980,10650,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_1,454481,475594,21114,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_2,612115,633823,21709,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_3,1022961,1048746,25786,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_4,1048866,1067910,19045,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_5,1079147,1090733,11587,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_6,1094798,1114297,19500,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_7,1115672,1124611,8940,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_8,1131739,1143474,11736,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_9,1143610,1168514,24905,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_10,1294965,1337899,42935,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_11,1341485,1353164,11680,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_12,1514404,1531852,17449,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_13,1532435,1542123,9689,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_14,1542179,1551571,9393,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_15,1595711,1616099,20389,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_16,1627742,1638041,10300,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_17,1638331,1664543,26213,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_18,1665537,1683866,18330,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_19,1983217,1994754,11538,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_20,2583276,2593056,9781,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_21,2595062,2604638,9577,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_22,2605028,2618679,13652,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_23,2618845,2628160,9316,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_24,2649653,2665312,15660,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_25,2665366,2681992,16627,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_26,2682055,2694923,12869,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_27,2721470,2733466,11997,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_28,3530060,3542936,12877,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_29,3583405,3592165,8761,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_30,3861734,3887991,26258,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_31,5069874,5088006,18133,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_32,5090210,5107072,16863,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_33,5195544,5208061,12518,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_34,5362816,5377923,15108,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_35,6020041,6048889,28849,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_36,6234445,6244860,10416,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_37,6250899,6260704,9806,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_38,6619223,6633311,14089,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_39,6640317,6651899,11583,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_40,6851102,6898434,47333,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_41,6909739,6917896,8158,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_42,7025807,7038649,12843,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_43,7089198,7099739,10542,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_44,7118792,7130991,12200,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_45,7602278,7629774,27497,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_46,7634689,7643163,8475,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_47,7643440,7653994,10555,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_48,7656775,7675479,18705,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_49,7798078,7808720,10643,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_50,8089028,8100938,11911,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_51,8144354,8174568,30215,island
+NC_009485.1,Bradyrhizobium sp. BTAi1 (8264687 bp),islandpick_80_52,8182399,8203265,20867,island
+NC_009708.1,Yersinia pseudotuberculosis IP 31758 (4723306 bp),islandpick_81_1,913308,921945,8638,island
+NC_009708.1,Yersinia pseudotuberculosis IP 31758 (4723306 bp),islandpick_81_2,2509173,2519054,9882,island
+NC_009708.1,Yersinia pseudotuberculosis IP 31758 (4723306 bp),islandpick_81_3,2519360,2540421,21062,island
+NC_009708.1,Yersinia pseudotuberculosis IP 31758 (4723306 bp),islandpick_81_4,848464,866567,18104,island
+NC_009708.1,Yersinia pseudotuberculosis IP 31758 (4723306 bp),islandpick_81_5,784575,801706,17132,island
+NC_009708.1,Yersinia pseudotuberculosis IP 31758 (4723306 bp),islandpick_81_6,807044,838053,31010,island
+NC_009708.1,Yersinia pseudotuberculosis IP 31758 (4723306 bp),islandpick_81_7,709128,724475,15348,island
+NC_009052.1,Shewanella baltica OS155 (5127376 bp),islandpick_82_1,916639,927354,10716,island
+NC_009052.1,Shewanella baltica OS155 (5127376 bp),islandpick_82_2,1311969,1320670,8702,island
+NC_009052.1,Shewanella baltica OS155 (5127376 bp),islandpick_82_3,1446557,1461145,14589,island
+NC_009052.1,Shewanella baltica OS155 (5127376 bp),islandpick_82_4,2113916,2122385,8470,island
+NC_009052.1,Shewanella baltica OS155 (5127376 bp),islandpick_82_5,2525465,2542678,17214,island
+NC_009052.1,Shewanella baltica OS155 (5127376 bp),islandpick_82_6,2689966,2699777,9812,island
+NC_009052.1,Shewanella baltica OS155 (5127376 bp),islandpick_82_7,4164561,4175117,10557,island
+NC_009052.1,Shewanella baltica OS155 (5127376 bp),islandpick_82_8,4177052,4187631,10580,island
+NC_009567.1,Haemophilus influenzae PittGG (1887192 bp),islandpick_83_1,739432,750434,11003,island
+NC_009567.1,Haemophilus influenzae PittGG (1887192 bp),islandpick_83_2,758060,766848,8789,island
+NC_006086.1,Streptococcus pyogenes MGAS10394 (1899877 bp),islandpick_84_1,1119538,1177901,58364,island
+NC_010473.1,Escherichia coli str. K-12 substr. DH10B (4686137 bp),islandpick_85_1,513115,525666,12552,island
+NC_010473.1,Escherichia coli str. K-12 substr. DH10B (4686137 bp),islandpick_85_2,627606,638926,11321,island
+NC_010473.1,Escherichia coli str. K-12 substr. DH10B (4686137 bp),islandpick_85_3,2845916,2855144,9229,island
+NC_003047.1,Sinorhizobium meliloti 1021 (3654135 bp),islandpick_86_1,493140,503967,10828,island
+NC_003047.1,Sinorhizobium meliloti 1021 (3654135 bp),islandpick_86_2,539649,561403,21755,island
+NC_003047.1,Sinorhizobium meliloti 1021 (3654135 bp),islandpick_86_3,1836435,1845540,9106,island
+NC_003047.1,Sinorhizobium meliloti 1021 (3654135 bp),islandpick_86_4,2483206,2496703,13498,island
+NC_003047.1,Sinorhizobium meliloti 1021 (3654135 bp),islandpick_86_5,3356259,3375744,19486,island
+NC_003047.1,Sinorhizobium meliloti 1021 (3654135 bp),islandpick_86_6,3375844,3385114,9271,island
+NC_003047.1,Sinorhizobium meliloti 1021 (3654135 bp),islandpick_86_7,3399664,3438596,38933,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_1,579579,597135,17557,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_2,665644,674042,8399,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_3,902901,928838,25938,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_4,1167198,1175767,8570,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_5,1175952,1200440,24489,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_6,1261816,1308716,46901,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_7,1370470,1384332,13863,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_8,1576223,1586031,9809,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_9,1632954,1649857,16904,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_10,1794373,1806433,12061,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_11,1806491,1814623,8133,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_12,2163038,2176999,13962,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_13,2186820,2199651,12832,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_14,2209428,2217596,8169,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_15,2668007,2692135,24129,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_16,2703534,2712022,8489,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_17,2895919,2926517,30599,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_18,3194299,3205055,10757,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_19,3853555,3863175,9621,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_20,3866046,3874934,8889,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_21,4584154,4606879,22726,island
+NC_002695.1,Escherichia coli O157:H7 str. Sakai (5498450 bp),islandpick_87_22,5359700,5390700,31001,island
+NC_010515.1,Burkholderia cenocepacia MC0-3 chromosome 2 (3213911 bp),islandpick_88_1,1227519,1238429,10911,island
+NC_010515.1,Burkholderia cenocepacia MC0-3 chromosome 2 (3213911 bp),islandpick_88_2,1426416,1443876,17461,island
+NC_010515.1,Burkholderia cenocepacia MC0-3 chromosome 2 (3213911 bp),islandpick_88_3,1629920,1643859,13940,island
+NC_010515.1,Burkholderia cenocepacia MC0-3 chromosome 2 (3213911 bp),islandpick_88_4,1644979,1671729,26751,island
+NC_010515.1,Burkholderia cenocepacia MC0-3 chromosome 2 (3213911 bp),islandpick_88_5,1677815,1698147,20333,island
+NC_010515.1,Burkholderia cenocepacia MC0-3 chromosome 2 (3213911 bp),islandpick_88_6,1703026,1720810,17785,island
+NC_010515.1,Burkholderia cenocepacia MC0-3 chromosome 2 (3213911 bp),islandpick_88_7,3080959,3113325,32367,island
+NC_007958.1,Rhodopseudomonas palustris BisB5 (4892717 bp),islandpick_89_1,11340,46264,34925,island
+NC_007958.1,Rhodopseudomonas palustris BisB5 (4892717 bp),islandpick_89_2,46864,68344,21481,island
+NC_007958.1,Rhodopseudomonas palustris BisB5 (4892717 bp),islandpick_89_3,415639,424369,8731,island
+NC_007958.1,Rhodopseudomonas palustris BisB5 (4892717 bp),islandpick_89_4,835418,851662,16245,island
+NC_007958.1,Rhodopseudomonas palustris BisB5 (4892717 bp),islandpick_89_5,1676746,1690493,13748,island
+NC_007958.1,Rhodopseudomonas palustris BisB5 (4892717 bp),islandpick_89_6,2386063,2400825,14763,island
+NC_007958.1,Rhodopseudomonas palustris BisB5 (4892717 bp),islandpick_89_7,2405978,2427581,21604,island
+NC_007958.1,Rhodopseudomonas palustris BisB5 (4892717 bp),islandpick_89_8,4073927,4091274,17348,island
+NC_009632.1,Staphylococcus aureus subsp. aureus JH1 (2906507 bp),islandpick_90_1,1097279,1113909,16631,island
+NC_004088.1,Yersinia pestis KIM (4600755 bp),islandpick_91_1,3390242,3398734,8493,island
+NC_007297.1,Streptococcus pyogenes MGAS5005 (1838554 bp),islandpick_92_1,1410055,1421842,11788,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_1,1538737,1559415,20679,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_2,2759629,2768828,9200,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_3,3528870,3538948,10079,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_4,3539124,3549058,9935,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_5,4409569,4428221,18653,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_6,4436017,4460911,24895,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_7,4460928,4474851,13924,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_8,4510151,4518993,8843,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_9,4519045,4536621,17577,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_10,4696670,4705392,8723,island
+NC_003198.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18 (4809037 bp),islandpick_93_11,4706310,4716575,10266,island
+NC_007005.1,Pseudomonas syringae pv. syringae B728a (6093698 bp),islandpick_94_1,115265,123600,8336,island
+NC_007005.1,Pseudomonas syringae pv. syringae B728a (6093698 bp),islandpick_94_2,1669427,1678863,9437,island
+NC_007005.1,Pseudomonas syringae pv. syringae B728a (6093698 bp),islandpick_94_3,2192661,2206675,14015,island
+NC_007005.1,Pseudomonas syringae pv. syringae B728a (6093698 bp),islandpick_94_4,3093377,3101902,8526,island
+NC_007005.1,Pseudomonas syringae pv. syringae B728a (6093698 bp),islandpick_94_5,3206999,3235233,28235,island
+NC_007005.1,Pseudomonas syringae pv. syringae B728a (6093698 bp),islandpick_94_6,3534778,3543533,8756,island
+NC_007005.1,Pseudomonas syringae pv. syringae B728a (6093698 bp),islandpick_94_7,5000247,5010063,9817,island
+NC_007005.1,Pseudomonas syringae pv. syringae B728a (6093698 bp),islandpick_94_8,5135290,5151222,15933,island
+NC_010400.1,Acinetobacter baumannii (3421954 bp),islandpick_95_1,1294019,1305346,11328,island
+NC_010400.1,Acinetobacter baumannii (3421954 bp),islandpick_95_2,2272056,2296734,24679,island
+NC_010400.1,Acinetobacter baumannii (3421954 bp),islandpick_95_3,2380107,2389075,8969,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_1,449143,458925,9783,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_2,471502,488656,17155,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_3,848939,862182,13244,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_4,1319917,1345962,26046,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_5,1361247,1372212,10966,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_6,2318804,2372543,53740,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_7,2393568,2406317,12750,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_8,2434858,2444520,9663,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_9,3407598,3417795,10198,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_10,3789921,3834510,44590,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_11,4555015,4596581,41567,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_12,4610018,4618538,8521,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_13,4938625,4953164,14540,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_14,5014526,5034239,19714,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_15,5393474,5403648,10175,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_16,6423673,6437722,14050,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_17,6575207,6584433,9227,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_18,6625900,6645961,20062,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_19,6661424,6670865,9442,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_20,7321328,7331644,10317,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_21,7333118,7357384,24267,island
+NC_009445.1,Bradyrhizobium sp. ORS278 (7456587 bp),islandpick_96_22,7358038,7394513,36476,island
+NC_009504.1,Brucella ovis ATCC 25840 chromosome II (1164220 bp),islandpick_97_1,507058,519790,12733,island
+NC_009879.1,Rickettsia canadensis str. McKiel (1159772 bp),islandpick_98_1,495692,505731,10040,island
+NC_009879.1,Rickettsia canadensis str. McKiel (1159772 bp),islandpick_98_2,700937,713514,12578,island
+NC_004116.1,Streptococcus agalactiae 2603V/R (2160267 bp),islandpick_99_1,1843032,1852236,9205,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_1,4625620,4636664,11045,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_2,3918395,3936988,18594,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_3,4293893,4303278,9386,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_4,2130637,2146272,15636,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_5,2148212,2166586,18375,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_6,2168874,2194607,25734,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_7,2209918,2219722,9805,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_8,2224488,2232679,8192,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_9,3853588,3875780,22193,island
+NC_006155.1,Yersinia pseudotuberculosis IP 32953 (4744671 bp),islandpick_100_10,3886164,3917255,31092,island
+NC_007651.1,Burkholderia thailandensis E264 chromosome I (3809201 bp),islandpick_101_1,1038008,1047515,9508,island
+NC_007651.1,Burkholderia thailandensis E264 chromosome I (3809201 bp),islandpick_101_2,1625241,1637308,12068,island
+NC_007651.1,Burkholderia thailandensis E264 chromosome I (3809201 bp),islandpick_101_3,3108262,3119566,11305,island
+NC_007651.1,Burkholderia thailandensis E264 chromosome I (3809201 bp),islandpick_101_4,3133521,3148739,15219,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_1,1032368,1040723,8356,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_2,2113777,2122986,9210,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_3,2416247,2431622,15376,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_4,2794361,2807256,12896,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_5,3049808,3060112,10305,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_6,3064726,3075700,10975,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_7,3109634,3117680,8047,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_8,3266714,3276293,9580,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_9,3279575,3300416,20842,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_10,3352565,3368599,16035,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_11,3555605,3567517,11913,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_12,4379970,4391076,11107,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_13,4393805,4419562,25758,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_14,4419647,4432014,12368,island
+NC_009512.1,Pseudomonas putida F1 (5959964 bp),islandpick_102_15,5658409,5675521,17113,island
+NC_008595.1,Mycobacterium avium 104 (5475491 bp),islandpick_103_1,1422167,1441405,19239,island
+NC_008595.1,Mycobacterium avium 104 (5475491 bp),islandpick_103_2,1977459,1990545,13087,island
+NC_008595.1,Mycobacterium avium 104 (5475491 bp),islandpick_103_3,5173495,5183749,10255,island
+NC_008595.1,Mycobacterium avium 104 (5475491 bp),islandpick_103_4,5184253,5195298,11046,island
+NC_008595.1,Mycobacterium avium 104 (5475491 bp),islandpick_103_5,5200966,5216954,15989,island
+NC_008595.1,Mycobacterium avium 104 (5475491 bp),islandpick_103_6,5229454,5245185,15732,island
+NC_009342.1,Corynebacterium glutamicum R (3314179 bp),islandpick_104_1,178263,188128,9866,island
+NC_009342.1,Corynebacterium glutamicum R (3314179 bp),islandpick_104_2,471691,490825,19135,island
+NC_009342.1,Corynebacterium glutamicum R (3314179 bp),islandpick_104_3,599593,611763,12171,island
+NC_009342.1,Corynebacterium glutamicum R (3314179 bp),islandpick_104_4,2071925,2109577,37653,island
+NC_009342.1,Corynebacterium glutamicum R (3314179 bp),islandpick_104_5,2413611,2421710,8100,island
+NC_009342.1,Corynebacterium glutamicum R (3314179 bp),islandpick_104_6,2525520,2541790,16271,island
+NC_009342.1,Corynebacterium glutamicum R (3314179 bp),islandpick_104_7,3167618,3177659,10042,island
+NC_007761.1,Rhizobium etli CFN 42 (4381608 bp),islandpick_105_1,607946,618541,10596,island
+NC_007761.1,Rhizobium etli CFN 42 (4381608 bp),islandpick_105_2,622801,632013,9213,island
+NC_007761.1,Rhizobium etli CFN 42 (4381608 bp),islandpick_105_3,784347,801357,17011,island
+NC_007761.1,Rhizobium etli CFN 42 (4381608 bp),islandpick_105_4,801650,821709,20060,island
+NC_007761.1,Rhizobium etli CFN 42 (4381608 bp),islandpick_105_5,1110338,1125822,15485,island
+NC_007761.1,Rhizobium etli CFN 42 (4381608 bp),islandpick_105_6,1409147,1423195,14049,island
+NC_007761.1,Rhizobium etli CFN 42 (4381608 bp),islandpick_105_7,2049656,2104831,55176,island
+NC_007761.1,Rhizobium etli CFN 42 (4381608 bp),islandpick_105_8,3051925,3064514,12590,island
+NC_007793.1,Staphylococcus aureus subsp. aureus USA300 (2872769 bp),islandpick_106_1,1553008,1573103,20096,island
+NC_009487.1,Staphylococcus aureus subsp. aureus JH9 (2906700 bp),islandpick_107_1,1097405,1114035,16631,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_1,177938,196352,18415,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_2,215950,243828,27879,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_3,243880,261527,17648,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_4,269982,278967,8986,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_5,279024,287601,8578,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_6,1355766,1364379,8614,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_7,2254131,2273610,19480,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_8,2349264,2357632,8369,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_9,3799163,3811836,12674,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_10,4093403,4103477,10075,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_11,4436885,4451459,14575,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_12,4453721,4462446,8726,island
+NC_009438.1,Shewanella putrefaciens CN-32 (4659220 bp),islandpick_108_13,4623976,4640565,16590,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_1,316791,325161,8371,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_2,1429645,1461777,32133,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_3,1491646,1509548,17903,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_4,1521249,1529419,8171,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_5,1550123,1571961,21839,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_6,1586748,1606893,20146,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_7,1612410,1648736,36327,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_8,1672260,1684139,11880,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_9,1684758,1724821,40064,island
+NC_008060.1,Burkholderia cenocepacia AU 1054 chromosome 1 (3294563 bp),islandpick_109_10,1729554,1739259,9706,island
+NC_010084.1,Burkholderia multivorans ATCC 17616 chromosome 1 (3448466 bp),islandpick_110_1,547958,558752,10795,island
+NC_010084.1,Burkholderia multivorans ATCC 17616 chromosome 1 (3448466 bp),islandpick_110_2,2490210,2500595,10386,island
+NC_010084.1,Burkholderia multivorans ATCC 17616 chromosome 1 (3448466 bp),islandpick_110_3,2532556,2543040,10485,island
+NC_010084.1,Burkholderia multivorans ATCC 17616 chromosome 1 (3448466 bp),islandpick_110_4,2831186,2843435,12250,island
+NC_009782.1,Staphylococcus aureus subsp. aureus Mu3 (2880168 bp),islandpick_111_1,436006,464315,28310,island
+NC_002944.2,Mycobacterium avium subsp. paratuberculosis K-10 (4829781 bp),islandpick_112_1,1877242,1886352,9111,island
+NC_002944.2,Mycobacterium avium subsp. paratuberculosis K-10 (4829781 bp),islandpick_112_2,4146327,4159661,13335,island
+NC_002944.2,Mycobacterium avium subsp. paratuberculosis K-10 (4829781 bp),islandpick_112_3,4159963,4183561,23599,island
+NC_004368.1,Streptococcus agalactiae NEM316 (2211485 bp),islandpick_113_1,1395289,1419011,23723,island
+NC_004368.1,Streptococcus agalactiae NEM316 (2211485 bp),islandpick_113_2,1382305,1395262,12958,island
+NC_004368.1,Streptococcus agalactiae NEM316 (2211485 bp),islandpick_113_3,1163554,1197455,33902,island
+NC_000913.2,Escherichia coli str. K-12 substr. MG1655 (4639675 bp),islandpick_114_1,289660,297702,8043,island
+NC_000913.2,Escherichia coli str. K-12 substr. MG1655 (4639675 bp),islandpick_114_2,2754151,2766805,12655,island
+NC_000913.2,Escherichia coli str. K-12 substr. MG1655 (4639675 bp),islandpick_114_3,4507810,4516496,8687,island
+NC_000913.2,Escherichia coli str. K-12 substr. MG1655 (4639675 bp),islandpick_114_4,4517263,4530588,13326,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_1,862099,885750,23652,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_2,1357137,1366835,9699,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_3,826660,857724,31065,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_4,803426,825520,22095,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_5,431177,448449,17273,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_6,448572,460062,11491,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_7,238812,249039,10228,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_8,3428809,3443828,15020,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_9,3406184,3423871,17688,island
+NC_010465.1,Yersinia pseudotuberculosis YPIII (4689441 bp),islandpick_115_10,2545879,2562027,16149,island
+NC_008611.1,Mycobacterium ulcerans Agy99 (5631606 bp),islandpick_116_1,3588934,3597094,8161,island
+AC_000091.1,Escherichia coli W3110 DNA (4646332 bp),islandpick_117_1,2754785,2768394,13610,island
+AC_000091.1,Escherichia coli W3110 DNA (4646332 bp),islandpick_117_2,4514467,4523153,8687,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_1,109610,126085,16476,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_2,715935,732174,16240,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_3,899932,925154,25223,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_4,1773784,1785607,11824,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_5,2193046,2201201,8156,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_6,2900978,2920080,19103,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_7,3225903,3242361,16459,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_8,3358613,3372818,14206,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_9,4296400,4308962,12563,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_10,4804726,4814224,9499,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_11,5172263,5199193,26931,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_12,5623010,5642436,19427,island
+NC_005773.3,Pseudomonas syringae pv. phaseolicola 1448A (5928787 bp),islandpick_118_13,5642564,5650801,8238,island

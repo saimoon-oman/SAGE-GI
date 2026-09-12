@@ -1,0 +1,54 @@
+accession,organism,start,end,length
+NC_003198.1,Salmonella enterica serovar Typhi CT18,302172,361067,58896
+NC_003198.1,Salmonella enterica serovar Typhi CT18,1008747,1051266,42520
+NC_003198.1,Salmonella enterica serovar Typhi CT18,1085156,1092735,7580
+NC_003198.1,Salmonella enterica serovar Typhi CT18,1538899,1572919,34021
+NC_003198.1,Salmonella enterica serovar Typhi CT18,1625084,1664823,39740
+NC_003198.1,Salmonella enterica serovar Typhi CT18,1776200,1791815,15616
+NC_003198.1,Salmonella enterica serovar Typhi CT18,1887450,1933558,46109
+NC_003198.1,Salmonella enterica serovar Typhi CT18,2460793,2465914,5122
+NC_003198.1,Salmonella enterica serovar Typhi CT18,2597945,2615052,17108
+NC_003198.1,Salmonella enterica serovar Typhi CT18,2743495,2759190,15696
+NC_003198.1,Salmonella enterica serovar Typhi CT18,2759733,2782364,22632
+NC_003198.1,Salmonella enterica serovar Typhi CT18,2859262,2899034,39773
+NC_003198.1,Salmonella enterica serovar Typhi CT18,3053654,3060017,6364
+NC_003198.1,Salmonella enterica serovar Typhi CT18,3132606,3139414,6809
+NC_003198.1,Salmonella enterica serovar Typhi CT18,3515397,3549055,33659
+NC_003198.1,Salmonella enterica serovar Typhi CT18,3883111,3900458,17348
+NC_003198.1,Salmonella enterica serovar Typhi CT18,4321943,4346614,24672
+NC_003198.1,Salmonella enterica serovar Typhi CT18,4409511,4543148,133638
+NC_003198.1,Salmonella enterica serovar Typhi CT18,4683690,4716539,32850
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,27025,43284,16260
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,61342,95876,34535
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,154153,190718,36566
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,190792,208253,17462
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,230521,239860,9340
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,249276,255947,6672
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,285652,291817,6166
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,305484,323838,18355
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,400793,409559,8767
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,418336,436609,18274
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,550408,575113,24706
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,727618,742674,15057
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,776521,795539,19019
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,1680222,1700449,20228
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,1866400,1880964,14565
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,1941600,1956347,14748
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,2059672,2070753,11082
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,2076036,2096446,20411
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,2114705,2144769,30065
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,2176625,2198998,22374
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,2212601,2242600,30000
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,2297047,2322993,25947
+NC_002935.2,Corynebacterium diphtheriae NCTC13129,2398584,2451928,53345
+NC_011770.1,Pseudomonas aeruginosa LESB58,665561,680385,14825
+NC_011770.1,Pseudomonas aeruginosa LESB58,863875,906018,42144
+NC_011770.1,Pseudomonas aeruginosa LESB58,1433756,1476547,42792
+NC_011770.1,Pseudomonas aeruginosa LESB58,1684045,1720850,36806
+NC_011770.1,Pseudomonas aeruginosa LESB58,2504700,2551100,46401
+NC_011770.1,Pseudomonas aeruginosa LESB58,2690450,2740350,49901
+NC_011770.1,Pseudomonas aeruginosa LESB58,2751800,2783500,31701
+NC_011770.1,Pseudomonas aeruginosa LESB58,2796836,2907406,110571
+NC_011770.1,Pseudomonas aeruginosa LESB58,3392800,3432228,39429
+NC_011770.1,Pseudomonas aeruginosa LESB58,4545190,4552788,7599
+NC_011770.1,Pseudomonas aeruginosa LESB58,4931528,4960941,29414
