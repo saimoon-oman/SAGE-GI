@@ -260,13 +260,7 @@ wiki/              GitHub wiki pages (copy into the wiki repo)
 ## Citing
 
 ```bibtex
-@article{oman2026sagegi,
-  title   = {SAGE-GI: species-aware genomic language model embeddings improve
-             unsupervised genomic island detection and boundary resolution},
-  author  = {Oman, Saimoon Al Farshi and Bayzid, Md. Shamsuzzoha},
-  journal = {Briefings in Bioinformatics},
-  year    = {2026}
-}
+
 ```
 
 ## Authors
