@@ -1353,3 +1353,28 @@ fine-tuning headroom. Priority list: 2018 benchmark first (2-4 days, same GPU
 sessions as fine-tuning), then detector/hyperparameter ablations (CPU-only), MAG
 + island-free smoke test, and transactions presentation items (bios, peak memory,
 seed locations).
+
+## 2026-09-13 (later) — documentation sweep from the final report
+
+User shared the final course Report (PDF + LaTeX zip): verified every number in
+it against current pipeline outputs — abstract (0.759/0.655/0.547, 55.17→60.32),
+Table IV (SAGE-GI 60.32), synthetic section (68.9/69.1, MABE 6.5/8.8), Table VII
+(CV values match table5_cv.tex exactly). Report is current; left untouched as the
+user's own document.
+
+Updates made from the sweep:
+- `docs/paper.pdf`: was stale (pre-synthetic-update BiB PDF); replaced with the
+  current 12-page build. Website numbers/table/fig5 were already current
+  (fig5 PNG verified 4-method; TreasureIsland 82.9/0.0 present).
+- `project_explanation_bangla.docx` rebuilt (311→312 paras) via
+  `C:/sagegi_work/build_bangla.py` after four script fixes: (1) `OUT` pointed at
+  `Project/` instead of the delivered `SAGE-GI/` copy — fixed to write the repo
+  file directly; (2) results table used internal config names (SAGE-GI row showed
+  fused 59.63) — DISPLAY mapping applied, table now reads SAGE-GI 60.32 /
+  SAGE-GI + composition 59.63; (3) new finding 7 on the synthetic repair
+  (68.9 vs 69.1, MABE 6.5 vs 8.8 kb, DNABERT-2 65.1%); (4) 21→22 tests in two
+  places; (5) §12 closing fixed — it still claimed old+new features work best
+  *together* (the withdrawn complementarity claim), now states replacement.
+- `README.md`, `wiki/`: verified current, no changes (wiki already documents
+  `prefer_full=True`; README reports no synthetic numbers to go stale).
+- `ASSESSMENT_IEEE.md` and the TCBB rating/reviews delivered in chat (Bangla).
